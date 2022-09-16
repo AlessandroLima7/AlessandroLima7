@@ -1,8 +1,8 @@
 ##  <h1>Olá! Eu sou o Alessandro Lima.</h1>
 
 <div align="center">
-  <a href="https://github.com/AlessandroLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroLima&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/AlessandroLima7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroLima7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroLima7&layout=compact&langs_count=7&theme=algolia"/>
 </div>
