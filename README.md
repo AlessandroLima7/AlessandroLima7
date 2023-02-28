@@ -25,6 +25,6 @@
 </div>
 <h3>Mais sobre mim:</h3>
 <p>Sou apaixonado por tecnologia e pela ideia de criar softwares que facilitam a vida humana 😀</p>
-<p>Atualmente trabalho na Vivo (Telefônica Brasil) como estagiário em desenvolvimento full-stack 👨‍💻</p>
+<p>Atualmente trabalho na Vivo (Telefônica Brasil) como Analista Júnior desenvolvendo APIs REST com o Framework Django REST👨‍💻</p>
 <p>Embora tenha experiência desenvolvendo como full-stack, tenho paixão pela parte de back-end 😎</p>
-<p>Experiência em desenvolvimento Web 🌐, android 📱 e utilização de algumas biblioteas Python como: Pandas e Workbook 📈</p>
+<p>Experiência em desenvolvimento de APIs RESTFUL, Web 🌐 e android 📱 </p>
