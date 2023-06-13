@@ -28,7 +28,8 @@
   <a href = "mailto:alessandro547@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 <h3>Mais sobre mim:</h3>
-<p>Sou apaixonado por tecnologia e pela ideia de criar softwares que facilitam a vida humana 😀</p>
-<p>Atualmente trabalho na Vivo (Telefônica Brasil) como Analista Júnior desenvolvendo APIs REST com o Framework Django REST👨‍💻</p>
-<p>Embora tenha experiência desenvolvendo como full-stack, tenho paixão pela parte de back-end 😎</p>
+<p>Sou apaixonado por tecnologia e pela ideia de criar softwares que facilitem nossas vidas😀</p>
+<p>Atualmente trabalho na Vivo (Telefônica Brasil) como Analista Desenvolvedor Júnior desenvolvendo APIs REST👨‍💻</p>
+<p>Embora tenha uma pequena experiência desenvolvendo como full-stack, a minha paixão é pela parte de back-end😎</p>
+<p>Estou focado na parte de desenvolvimento em Java com a utilização do Spring Boot.</p>
 <p>Experiência em desenvolvimento de APIs RESTFUL, Web 🌐 e android 📱 </p>
