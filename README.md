@@ -29,7 +29,7 @@
 </div>
 <h3>Mais sobre mim:</h3>
 <p>Sou apaixonado por tecnologia e pela ideia de criar softwares que facilitem nossas vidas😀</p>
-<p>Atualmente trabalho na Vivo (Telefônica Brasil) como Analista Desenvolvedor Júnior desenvolvendo APIs REST👨‍💻</p>
-<p>Embora tenha uma pequena experiência desenvolvendo como full-stack, a minha paixão é pela parte de back-end😎</p>
+<p>Atualmente trabalho na Vivo (Telefônica Brasil) como Analista Desenvolvedor Júnior👨‍💻</p>
+<p>Embora tenha uma pequena experiência desenvolvendo como full-stack, a minha paixão é o back-end😎</p>
 <p>Estou focado na parte de desenvolvimento em Java com a utilização do Spring Boot.</p>
-<p>Experiência em desenvolvimento de APIs RESTFUL, Web 🌐 e android 📱 </p>
+<p>Experiência em desenvolvimento de APIs REST, Web 🌐 e android 📱 </p>
